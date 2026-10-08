@@ -28,7 +28,7 @@ My goal is to keep learning by **building real projects rather than only studyin
 
 ## Projects
 
-### 🚗 Mercedes-Benz Group — Financial & Operating Performance Analysis
+###  Mercedes-Benz Group — Financial & Operating Performance Analysis
 
 A five-year financial and operating performance analysis of **Mercedes-Benz Group AG** covering 2021–2025, with a 2026 operating outlook and valuation framework.
 
@@ -36,7 +36,7 @@ The project includes **21 analytical exhibits** covering profitability, operatin
 
 **[View the project →](https://github.com/ioannisroumkos/Mercedes-Benz-Group---Financial-Operating-Performance-Analysis)**
 
-### ✈️ Bombardier — Equity Research
+###  Bombardier — Equity Research
 
 My first full equity research project, independently prepared to apply financial modeling, valuation and fundamental-analysis concepts to a real company.
 
@@ -48,7 +48,7 @@ The project includes company and industry research, financial forecasting, DCF v
 
 **Finance:** Financial Modeling · DCF & Relative Valuation · Forecasting · Fundamental Analysis · Portfolio Allocation
 
-**Tools:** Microsoft Excel · SQL (Foundational) · Python (Foundational)
+**Tools:** Microsoft Excel · SQL · Python · PowerBI 
 
 **Languages:** Greek (Native) · English (Fluent)
 
