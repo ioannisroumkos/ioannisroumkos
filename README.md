@@ -1,20 +1,22 @@
 # Hi, I'm Ioannis 👋
 
+**Accounting & Finance | Financial Modeling | Equity Research**
+
 I'm an **Accounting & Finance graduate** with a concentration in Finance, a **Financial Modeling & Valuation Analyst (FMVA®)** certification, and currently a **CFA Level 1 candidate**.
 
-I'm interested in **corporate finance, financial analysis, equity research, and capital markets**, and I'm particularly interested in how financial analysis can be combined with data to better understand businesses and make informed decisions.
+I'm interested in **corporate finance, financial analysis, equity research, and capital markets**, with a particular interest in understanding how financial analysis can be used to evaluate businesses and investment opportunities.
 
 ## About Me
 
-My main focus is developing a strong understanding of finance by combining what I learn academically and independently with practical, real-world applications.
+I enjoy researching companies and industries, building financial models, analysing financial performance, and understanding how operating decisions translate into financial results.
 
-I enjoy working through financial problems, researching companies and industries, building financial models, and understanding how business decisions translate into financial results.
+My approach is to combine academic knowledge, independent research and practical project work to develop a stronger understanding of finance.
 
-I'm also developing my skills in **SQL and Python** with the goal of eventually applying data analysis techniques to financial and business problems.
+I'm also developing my skills in **SQL and Python**, with the goal of applying data analysis techniques to financial and business problems.
 
-## What I'm Working On
+## What I'm Developing
 
-I'm currently building projects that allow me to apply and strengthen my skills in:
+I'm building practical finance projects that combine:
 
 - Financial modeling and forecasting
 - Business and equity valuation
@@ -26,15 +28,21 @@ My goal is to keep learning by **building real projects rather than only studyin
 
 ## Projects
 
-### 📊 Bombardier Equity Research
+### 🚗 Mercedes-Benz Group — Financial & Operating Performance Analysis
 
-My first full equity research project, independently prepared as a way to apply financial modeling and valuation concepts to a real company.
+A five-year financial and operating performance analysis of **Mercedes-Benz Group AG** covering 2021–2025, with a 2026 operating outlook and valuation framework.
 
-The project includes company and industry research, financial forecasting, a DCF valuation, comparable-company analysis, scenario analysis, and sensitivity testing.
+The project includes **21 analytical exhibits** covering profitability, operating performance, China exposure, electrification, investment intensity, industrial ROIC, free cash flow, shareholder returns, working capital, cash conversion and BMW peer comparison.
+
+**[View the project →](https://github.com/ioannisroumkos/Mercedes-Benz-Group---Financial-Operating-Performance-Analysis)**
+
+### ✈️ Bombardier — Equity Research
+
+My first full equity research project, independently prepared to apply financial modeling, valuation and fundamental-analysis concepts to a real company.
+
+The project includes company and industry research, financial forecasting, DCF valuation, comparable-company analysis, scenario analysis and sensitivity testing.
 
 **[View the project →](https://github.com/ioannisroumkos/bombardier-equity-research)**
-
-More projects will be added as I continue developing my skills.
 
 ## Skills
 
