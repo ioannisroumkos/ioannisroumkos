@@ -12,7 +12,7 @@ I enjoy researching companies and industries, building financial models, analysi
 
 My approach is to combine academic knowledge, independent research and practical project work to develop a stronger understanding of finance.
 
-I'm also developing my skills in **SQL and Python**, with the goal of applying data analysis techniques to financial and business problems.
+I'm also developing my skills in **SQL, Python**, **PowerBI**, with the goal of applying data analysis techniques to financial and business problems.
 
 ## What I'm Developing
 
